@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "MASHIRO",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:42:13.824811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TAPE (Sung by MASHIRO, CHAEHYUN, DAYEON, HIKARU, HUENING BAHIYYIH)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/01_TAPE_(Sung_by_MASHIRO,_CHAEHYUN,_DAYEON,_HIKARU,_HUENING_BAHIYYIH)_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TAPE (Sung by MASHIRO, CHAEHYUN, DAYEON, HIKARU, HUENING BAHIYYIH)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_TAPE_(Sung_by_MASHIRO,_CHAEHYUN,_DAYEON,_HIKARU,_HUENING_BAHIYYIH)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mashiro",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/03_Mashiro_sumika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mashiro",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/04_Mashiro_sumika.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pico Pico Tokyo (feat. Momo Mashiro)",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/05_Pico_Pico_Tokyo_(feat._Momo_Mashiro)_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New World (feat. Minase Mashiro)",
+      "artist": "U-Ske",
+      "has_synced": false,
+      "path": "select/06_Brand_New_World_(feat._Minase_Mashiro)_U-Ske.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jump in Tonight (feat. Momo Mashiro)",
+      "artist": "Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/07_Jump_in_Tonight_(feat._Momo_Mashiro)_Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gasy mashiro",
+      "artist": "Dalvis",
+      "has_synced": false,
+      "path": "select/08_Gasy_mashiro_Dalvis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mashiro No Sora",
+      "artist": "大宮陽和",
+      "has_synced": true,
+      "path": "select/09_Mashiro_No_Sora_大宮陽和.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MASHIRO",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_MASHIRO_AVACLUB.txt"
+    }
+  ]
+}
